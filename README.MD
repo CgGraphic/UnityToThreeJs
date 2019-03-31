@@ -1,3 +1,6 @@
+![alt text](/Preview.PNG)
+Exported scene from Unity to ThreeJS
+
 To export scene select Tools -> UnityToThreeJs -> Export (or use hotkey ctrl+shift+alt+p)
 Export results you may see in logs.
 
